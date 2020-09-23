@@ -1,0 +1,6 @@
+Form1 = 66, 66, 521, 451, , 44, 44, 521, 492, C
+Miscellaneous_Module = 66, 66, 403, 404, 
+ScreenRes_Module = 0, 0, 376, 346, 
+FrmMainMenu = 44, 44, 420, 390, , 22, 22, 398, 368, C
+Game_Logic_Module = 154, 154, 524, 477, Z
+collide = 0, 0, 370, 323, 
